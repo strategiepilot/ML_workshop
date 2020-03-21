@@ -8,3 +8,6 @@ datetime
 IPython
 spacy
 sklearn
+
+# python -m spacy download de_core_news_sm
+de_core_news_sm
