@@ -10,4 +10,5 @@ spacy
 sklearn
 
 # python -m spacy download de_core_news_sm
-spacy download de_core_news_sm
+# spacy download de_core_news_sm
+https://spacy.io/usage/models#models-download
