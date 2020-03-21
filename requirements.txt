@@ -3,11 +3,7 @@ pandas
 scipy
 matplotlib
 seaborn
-warnings
-random
-os
 datetime
-pickle
 IPython
 spacy
 sklearn
