@@ -6,9 +6,11 @@ matplotlib
 seaborn
 datetime
 IPython
-spacy
+# spacy
 sklearn
 
-# python -m spacy download de_core_news_sm
-# spacy download de_core_news_sm
-https://spacy.io/usage/models#models-download
+
+
+spacy>=2.2.0,<3.0.0
+# https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz#egg=en_core_web_sm
+https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-2.2.5/de_core_news_sm-2.2.5.tar.gz#egg=de_core_news_sm
