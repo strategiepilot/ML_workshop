@@ -9,5 +9,5 @@ IPython
 spacy
 sklearn
 
-python -m spacy download de_core_news_sm
-# de_core_news_sm
+# python -m spacy download de_core_news_sm
+spacy download de_core_news_sm
